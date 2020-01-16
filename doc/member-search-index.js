@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"primeNumbers","c":"ISieve","l":"getPrimes()"},{"p":"primeNumbers","c":"ISieve","l":"savePrimes()"}]

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"primeNumbers","l":"ISieve"}]
